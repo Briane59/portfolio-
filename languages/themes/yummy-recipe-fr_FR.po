@@ -1,0 +1,211 @@
+# Translation of Themes - Yummy Recipe in French (France)
+# This file is distributed under the same license as the Themes - Yummy Recipe package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-12-15 07:30:16+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: fr\n"
+"Project-Id-Version: Themes - Yummy Recipe\n"
+
+#. Theme Name of the theme
+msgid "Yummy Recipe"
+msgstr "Yummy Recipe"
+
+#: functions.php:1025
+msgid "BlossomThemes Social Feed"
+msgstr "Flux des réseaux sociaux BlossomThemes"
+
+#: functions.php:1030
+msgid "Regenerate Thumbnails"
+msgstr "Regénérer les miniatures"
+
+#: functions.php:988
+msgid "https://wordpress.org/"
+msgstr "https://fr.wordpress.org/"
+
+#: functions.php:814
+msgid "Pages:"
+msgstr "Pages :"
+
+#: functions.php:57
+msgid "Demo & Documentation"
+msgstr "Démo et documentation"
+
+#: functions.php:186
+msgid "Font Size"
+msgstr "Taille de police"
+
+#: functions.php:164
+msgid "Secondary font of the site."
+msgstr "Police secondaire du site."
+
+#: functions.php:163
+msgid "Secondary Font"
+msgstr "Police secondaire"
+
+#: functions.php:142
+msgid "Primary font of the site."
+msgstr "Police principale du site."
+
+#: functions.php:141
+msgid "Primary Font"
+msgstr "Police principale"
+
+#: functions.php:121
+msgid "Typography Settings"
+msgstr "Réglages typographiques"
+
+#: functions.php:110
+msgid "Primary color of the theme."
+msgstr "Couleur primaire du thème."
+
+#: functions.php:109
+msgid "Primary Color"
+msgstr "Couleur primaire"
+
+#: functions.php:91
+msgid "Customize Typography, Header Image & Background Image"
+msgstr "Personnaliser la typographie, l’image de l’en-tête et l’image d’arrière-plan"
+
+#: functions.php:90
+msgid "Appearance Settings"
+msgstr "Réglages d’apparence"
+
+#: functions.php:393
+msgid "This is the general sidebar layout for whole site."
+msgstr "Ceci est la mise en page générale de colonne latérale pour l’ensemble du site."
+
+#: functions.php:392
+msgid "Default Sidebar Layout"
+msgstr "Mise en page de colonne latérale par défaut"
+
+#: functions.php:365
+msgid "Post Sidebar Layout"
+msgstr "Mise en page de colonne latérale d’articles"
+
+#: functions.php:208
+msgid "Layout Settings"
+msgstr "Réglages de mise en page"
+
+#: functions.php:546
+msgid "Find Your Best Holiday"
+msgstr "Trouvez vos meilleures vacances"
+
+#: functions.php:548
+msgid "Read More"
+msgstr "Lire la Suite"
+
+#: functions.php:842
+msgctxt "Site Title Font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:841
+msgctxt "Secondary Font: on or off"
+msgid "on"
+msgstr "on"
+
+#. Translators: If there are characters in your language that are not supported
+#. by respective fonts, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:840
+msgctxt "Primary Font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:305
+msgid "Choose the layout of the slider for your site."
+msgstr "Choisissez la mise en page du diaporama pour votre site."
+
+#: functions.php:284 functions.php:304
+msgid "Slider Layout"
+msgstr "Mise en page du diaporama"
+
+#: functions.php:237
+msgid "This is the layout for header."
+msgstr "Ceci est la mise en page pour l’en-tête."
+
+#: functions.php:1020
+msgid "BlossomThemes Email Newsletter"
+msgstr "E-mail Newsletter BlossomThemes"
+
+#: functions.php:1015
+msgid "BlossomThemes Toolkit"
+msgstr "Boîte à outil BlossomThemes"
+
+#: functions.php:988
+msgid " Powered by %s. "
+msgstr "Propulsé par %s. "
+
+#: functions.php:72
+msgid "Documentation Link: %1$sClick here.%2$s"
+msgstr "Lien vers la documentation : %1$scliquez ici.%2$s"
+
+#: functions.php:70
+msgid "Demo Link: %1$sClick here.%2$s"
+msgstr "Lien de démo : %1$scliquez ici.%2$s"
+
+#: functions.php:187
+msgid "Change the font size of your site."
+msgstr "Modifier la taille de police du titre de votre site."
+
+#: functions.php:366
+msgid "This is the general sidebar layout for posts & custom post. You can override the sidebar layout for individual post in respective post."
+msgstr "Ceci est la mise en page générale de colonne latérale pour les articles ou les publications personnalisées. Vous pouvez la surcharger pour un article spécifique."
+
+#: functions.php:339
+msgid "This is the general sidebar layout for pages. You can override the sidebar layout for individual page in respective page."
+msgstr "Il s’agit de la mise en page générale de la colonne latérale pour les pages. Vous pouvez la surcharger pour une page spécifique."
+
+#: functions.php:338
+msgid "Page Sidebar Layout"
+msgstr "Mise en page de colonne latérale des pages"
+
+#: functions.php:547
+msgid "Find great adventure holidays and activities around the planet."
+msgstr "Trouvez des aventures et des activités autour de la planète."
+
+#: functions.php:986
+msgid " Yummy Recipe | Developed By "
+msgstr " Yummy Recipe | Développé par "
+
+#: functions.php:318
+msgid "General Sidebar Layout"
+msgstr "Mise en page générale de la colonne latérale"
+
+#: functions.php:271
+msgid "Choose the layout of the homepage for your site."
+msgstr "Choisissez la mise en page de la page d’accueil de votre site."
+
+#: functions.php:250
+msgid "Home Page Layout"
+msgstr "Mise en page de page d’accueil"
+
+#: functions.php:216 functions.php:236
+msgid "Header Layout"
+msgstr "Mise en page d’en-tête"
+
+#: functions.php:1010
+msgid "Delicious Recipes – WordPress Recipe Plugin"
+msgstr "Delicious Recipes – Extension WordPress de recettes"
+
+#: functions.php:270
+msgid "Homepage Layout"
+msgstr "Mise en page de la page d’accueil"
+
+#. Author of the theme
+#: functions.php:987
+msgid "Blossom Themes"
+msgstr "Blossom Themes"
+
+#. Author URI of the theme
+msgid "https://blossomthemes.com/"
+msgstr "https://blossomthemes.com/"
+
+#. Theme URI of the theme
+msgid "https://blossomthemes.com/downloads/yummy-recipe/"
+msgstr "https://blossomthemes.com/downloads/yummy-recipe/"

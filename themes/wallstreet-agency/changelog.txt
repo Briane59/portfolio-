@@ -1,0 +1,13 @@
+== Changelog ==
+
+@Version 0.4
+1. Fixed the theme check warnings.
+
+@Version 0.3
+1. Fixed strings as per i18n.
+
+@Version 0.2
+1. Fixed some typo.
+
+@Version 0.1
+1. Initial Release.
